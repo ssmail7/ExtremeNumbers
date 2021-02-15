@@ -8,6 +8,7 @@
 // The user can stop input by entering a zero.
 //
 //**********************************************************
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
